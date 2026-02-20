@@ -1,0 +1,2 @@
+uid,domainID,siteID,plotID,namedLocation,startDate,collectDate,eventID,samplingProtocolVersion,genomicsPooledIDList,genomicsSampleID,genomicsSampleCode,sampleCondition,processedBy,remarks,genomicsDataQF
+"5dff25ce-47bf-4d1c-9235-210ba8ba6332","D19","HEAL","HEAL_004","HEAL_004.basePlot.bgc","2016-08-02T22:55Z","2016-09-06T22:49Z",,"NEON.DOC.014048vJ","HEAL_004-O-5-6-20160906|HEAL_004-O-37-8-20160906|HEAL_004-O-3-36-20160802","HEAL_004-O-20160802-COMP",,"OK","sfrost@battelleecology.org",,

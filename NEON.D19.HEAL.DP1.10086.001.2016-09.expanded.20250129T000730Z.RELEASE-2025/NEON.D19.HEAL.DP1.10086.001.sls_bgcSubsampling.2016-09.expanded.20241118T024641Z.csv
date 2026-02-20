@@ -1,0 +1,3 @@
+uid,domainID,siteID,plotID,namedLocation,startDate,collectDate,samplingProtocolVersion,horizon,ovenStartDate,ovenEndDate,sampleID,sampleCode,cnSampleID,cnSampleCode,bgcArchiveID,bgcArchiveCode,bgcArchiveMass,toxicodendronPossible,sampleCondition,bgcRemarks,processedBy,bgcDataQF
+"acb8053f-f4ce-4685-8777-2acf7ec49c8f","D19","HEAL","HEAL_004","HEAL_004.basePlot.bgc","2016-09-06T22:15Z","2016-09-06T22:15Z","NEON.DOC.014048vG","O",,,"HEAL_004-O-37-8-20160906",,"HEAL_004-O-37-8-20160906-CN",,,,,,"OK","QC0","kschroder@neoninc.org",
+"873c678f-16c7-4be2-88a6-5f36bffa4242","D19","HEAL","HEAL_004","HEAL_004.basePlot.bgc","2016-09-06T22:49Z","2016-09-06T22:49Z","NEON.DOC.014048vG","O",,,"HEAL_004-O-5-6-20160906",,"HEAL_004-O-5-6-20160906-CN",,,,,,"OK",,"kschroder@neoninc.org",
